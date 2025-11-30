@@ -1,5 +1,5 @@
 import { useState } from 'react'
-
+import { Analytics } from "@vercel/analytics/next"
 
 import './App.css'
 import ChessGame from './ChessGame'
